@@ -111,7 +111,9 @@ class Script(scripts.Script):
                 if initial_info is None:
                     initial_info = processed.info
 
-                if not fix_seed:
+                if fix_seed:
+                    p.seed = processed.seed
+                else:
                     p.seed = processed.seed + 1
                 work_results += processed.images
 
