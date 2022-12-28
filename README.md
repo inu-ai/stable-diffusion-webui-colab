@@ -1,7 +1,11 @@
 # stable-diffusion-webui-colab
 
-[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) is easy to use with Colab
+[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thx-pw/stable-diffusion-webui-colab/blob/main/colabs/stablediffusion_webui.ipynb)
+
+[enryu43/anifusion2-sd-webui](https://github.com/enryu43/anifusion2-sd-webui)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thx-pw/stable-diffusion-webui-colab/blob/main/colabs/anifusion2_sd_webui.ipynb)
+
 
 ## Feature
 - It is based on [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab).
