@@ -1,4 +1,6 @@
 {
+    "txt2img/CFG Scale/value": 12.0,
+    "img2img/CFG Scale/value": 12.0,
     "txt2img/Width/value": 512,
     "txt2img/Height/value": 512,
     "img2img/Width/value": 512,
