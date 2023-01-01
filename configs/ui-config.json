@@ -1,0 +1,8 @@
+{
+    "txt2img/Width/value": 512,
+    "txt2img/Height/value": 512,
+    "img2img/Width/value": 512,
+    "img2img/Height/value": 512,
+    "extras/Width/value": 512,
+    "extras/Height/value": 512
+}
