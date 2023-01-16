@@ -23,3 +23,4 @@ artstation-v1,https://huggingface.co/ckpt/artstation-diffusion/blob/main/artstat
 cafe-instagram-unofficial,https://huggingface.co/NoCrypt/cafe-instagram-unofficial/blob/main/cafe-instagram-unofficial-test-epoch-9-140k-images-fp32.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,1,512,512
 trinart-derrida_final,https://huggingface.co/naclbit/trinart_derrida_characters_v2_stable_diffusion/blob/main/derrida_final.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,1,512,512
 robo-v1,https://huggingface.co/nousr/robo-diffusion/blob/main/models/robo-diffusion-v1.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,1,512,512
+Counterfeit-V2.0,https://huggingface.co/gsdf/Counterfeit-V2.0/blob/main/Counterfeit-V2.0.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,640,384
