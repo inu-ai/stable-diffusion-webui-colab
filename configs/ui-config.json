@@ -1,6 +1,8 @@
 {
-    "txt2img/CFG Scale/value": 12.0,
-    "img2img/CFG Scale/value": 12.0,
+    "txt2img/Sampling method/value": "DPM++ SDE Karras",
+    "img2img/Sampling method/value": "DPM++ SDE Karras",
+    "txt2img/CFG Scale/value": 8.0,
+    "img2img/CFG Scale/value": 8.0,
     "txt2img/Width/value": 512,
     "txt2img/Height/value": 512,
     "img2img/Width/value": 512,
