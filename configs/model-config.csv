@@ -1,12 +1,12 @@
 name,url,config_url,clip_stop_at_last_layers,width_value,height_value
-waifu-v14-e1,https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/wd-1-4-anime_e1.ckpt,https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/wd-1-4-anime_e1.yaml,2,640,640
+waifu-v14,https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/wd-1-4-anime_e2.ckpt,https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/wd-1-4-anime_e1.yaml,2,768,768
 stable-v21-768,https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt,https://github.com/Stability-AI/stablediffusion/blob/main/configs/stable-diffusion/v2-inference-v.yaml,2,768,768
 stable-v20-512-inpainting,https://huggingface.co/stabilityai/stable-diffusion-2-inpainting/blob/main/512-inpainting-ema.ckpt,https://github.com/Stability-AI/stablediffusion/blob/main/configs/stable-diffusion/v2-inference.yaml,2,512,512
 stable-v21-512,https://huggingface.co/stabilityai/stable-diffusion-2-1-base/blob/main/v2-1_512-ema-pruned.ckpt,https://github.com/Stability-AI/stablediffusion/blob/main/configs/stable-diffusion/v2-inference.yaml,2,512,512
 stable-v20-512-depth,https://huggingface.co/stabilityai/stable-diffusion-2-depth/blob/main/512-depth-ema.ckpt,https://github.com/Stability-AI/stablediffusion/blob/main/configs/stable-diffusion/v2-midas-inference.yaml,2,512,512
-cool-japan,https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-0/blob/main/v2-1-0.ckpt,https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-0/blob/main/v2-1-0.yaml,2,512,512
-plat-v130,https://huggingface.co/p1atdev/pd-archive/blob/main/plat-v1-3-0.safetensors,https://huggingface.co/p1atdev/pd-archive/blob/main/plat-v1-3-0.yaml,2,640,640
-tohoku-v2,https://huggingface.co/shirayu/sd-tohoku-v2/blob/main/ckpt/sd-tohoku-v2.ckpt,https://huggingface.co/shirayu/sd-tohoku-v2/blob/main/ckpt/sd-tohoku-v2.yaml,2,448,640
+cool-japan,https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-1/blob/main/v2-1-1.safetensors,https://huggingface.co/aipicasso/cool-japan-diffusion-2-1-1/blob/main/v2-1-1.yaml,2,768,768
+plat,https://huggingface.co/p1atdev/pd-archive/blob/main/plat-v1-3-0.safetensors,https://huggingface.co/p1atdev/pd-archive/blob/main/plat-v1-3-0.yaml,2,768,768
+tohoku-v2,https://huggingface.co/shirayu/sd-tohoku-v2/blob/main/ckpt/sd-tohoku-v2.ckpt,https://huggingface.co/shirayu/sd-tohoku-v2/blob/main/ckpt/sd-tohoku-v2.yaml,2,768,768
 mitsua-v10,https://huggingface.co/Mitsua/mitsua-diffusion-cc0/blob/main/mitsua-diffusion-cc0-v1-0.ckpt,https://github.com/Stability-AI/stablediffusion/blob/main/configs/stable-diffusion/v2-inference.yaml,2,512,512
 waifu-v140-booru-14000,https://huggingface.co/waifu-diffusion/unofficial-releases/blob/main/wd14-booru-step-14000-unofficial.safetensors,https://github.com/Stability-AI/stablediffusion/blob/main/configs/stable-diffusion/v2-inference.yaml,2,512,512
 robo-v2,https://huggingface.co/ckpt/robo-diffusion-2-base/blob/main/robo-diffusion-2-base.ckpt,https://github.com/Stability-AI/stablediffusion/blob/main/configs/stable-diffusion/v2-inference.yaml,2,512,512
