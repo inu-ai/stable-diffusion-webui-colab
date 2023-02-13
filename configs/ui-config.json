@@ -1,12 +1,14 @@
 {
     "txt2img/Sampling method/value": "DPM++ SDE Karras",
     "img2img/Sampling method/value": "DPM++ SDE Karras",
-    "txt2img/CFG Scale/value": 8.0,
-    "img2img/CFG Scale/value": 8.0,
+    "txt2img/CFG Scale/value": 10.0,
+    "img2img/CFG Scale/value": 10.0,
     "txt2img/Width/value": 512,
     "txt2img/Height/value": 512,
     "img2img/Width/value": 512,
     "img2img/Height/value": 512,
     "extras/Width/value": 512,
-    "extras/Height/value": 512
+    "extras/Height/value": 512,
+    "txt2img/Sampling steps/value": 28,
+    "img2img/Sampling steps/value": 28
 }
