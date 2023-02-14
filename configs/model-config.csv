@@ -13,6 +13,7 @@ tohoku-v2,https://huggingface.co/shirayu/sd-tohoku-v2/blob/main/ckpt/sd-tohoku-v
 DeDeDe,https://huggingface.co/nakayama/DeDeDe/blob/main/DeDeDe.safetensors,2,512,512
 DeDeDeP,https://huggingface.co/nakayama/DeDeDeP/blob/main/DeDeDeP.safetensors,2,512,512
 mitsua-v10,https://huggingface.co/Mitsua/mitsua-diffusion-cc0/blob/main/mitsua-diffusion-cc0-v1-0.ckpt,2,512,512
+openjourney-v2,https://huggingface.co/prompthero/openjourney-v2/blob/main/openjourney-v2.ckpt,2,512,512
 anything-v45,https://huggingface.co/ckpt/anything-v4.5-vae-swapped/blob/main/anything-v4.5-vae-swapped.safetensors,2,768,768
 instruct-pix2pix,https://huggingface.co/timbrooks/instruct-pix2pix/blob/main/instruct-pix2pix-00-22000.safetensors,2,512,512
 waifu-v140-booru-14000,https://huggingface.co/waifu-diffusion/unofficial-releases/blob/main/wd14-booru-step-14000-unofficial.safetensors,2,512,512
