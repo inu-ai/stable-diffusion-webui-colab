@@ -1,6 +1,7 @@
 name,url,clip_stop_at_last_layers,width_value,height_value
 waifu-v15,https://huggingface.co/waifu-diffusion/wd-1-5-beta/blob/main/checkpoints/wd15-beta1-fp16.safetensors,2,768,768
 waifu-v14,https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/wd-1-4-anime_e2.ckpt,2,768,768
+MF-Base,https://huggingface.co/MyneFactory/MF-Base/blob/main/Full%20release%20models/MyneFactoryBase%20V1.0.safetensors,1,768,768
 Illuminati,https://huggingface.co/IlluminatiAI/Illuminati_Diffusion_v1.0/blob/main/illuminati_diffusion_v1.0.safetensors,2,768,768
 th,https://huggingface.co/furusu/th-diffusion/blob/main/th-diffusion.safetensors,2,768,768
 stable-v21-768,https://huggingface.co/webui/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned-fp16.safetensors,2,768,768
