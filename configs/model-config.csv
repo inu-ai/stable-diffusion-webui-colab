@@ -1,6 +1,7 @@
 name,url,clip_stop_at_last_layers,width_value,height_value
 waifu-v15,https://huggingface.co/waifu-diffusion/wd-1-5-beta/blob/main/checkpoints/wd15-beta1-fp16.safetensors,2,768,768
 waifu-v14,https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/wd-1-4-anime_e2.ckpt,2,768,768
+Rumination,https://huggingface.co/JosephusCheung/RuminationDiffusion/blob/main/Rumination-half.ckpt,2,768,768
 MF-Base,https://huggingface.co/MyneFactory/MF-Base/blob/main/Full%20release%20models/MyneFactoryBase%20V1.0.safetensors,1,768,768
 Illuminati,https://huggingface.co/IlluminatiAI/Illuminati_Diffusion_v1.0/blob/main/illuminati_diffusion_v1.0.safetensors,2,768,768
 th,https://huggingface.co/furusu/th-diffusion/blob/main/th-diffusion.safetensors,2,768,768
@@ -16,13 +17,11 @@ DeDeDeP,https://huggingface.co/nakayama/DeDeDeP/blob/main/DeDeDeP.safetensors,2,
 mitsua-v10,https://huggingface.co/Mitsua/mitsua-diffusion-cc0/blob/main/mitsua-diffusion-cc0-v1-0.ckpt,2,512,512
 openjourney-v2,https://huggingface.co/prompthero/openjourney-v2/blob/main/openjourney-v2.ckpt,2,512,512
 anything-v45,https://huggingface.co/ckpt/anything-v4.5-vae-swapped/blob/main/anything-v4.5-vae-swapped.safetensors,2,768,768
-instruct-pix2pix,https://huggingface.co/webui/instruct-pix2pix/blob/main/instruct-pix2pix-00-22000-pruned-fp16.safetensors,2,512,512
 waifu-v140-booru-14000,https://huggingface.co/waifu-diffusion/unofficial-releases/blob/main/wd14-booru-step-14000-unofficial.safetensors,2,512,512
 robo-v2,https://huggingface.co/ckpt/robo-diffusion-2-base/blob/main/robo-diffusion-2-base.ckpt,2,512,512
 ACertainThing,https://huggingface.co/JosephusCheung/ACertainThing/blob/main/ACertainThing-half.ckpt,2,768,768
 ACertainModel,https://huggingface.co/JosephusCheung/ACertainModel/blob/main/ACertainModel-half.ckpt,2,768,768
 ACertainty,https://huggingface.co/JosephusCheung/ACertainty/blob/main/ACertainty.ckpt,2,768,768
-riffusion,https://huggingface.co/webui/riffusion-model-v1/blob/main/riffusion-model-v1-fp16.safetensors,1,512,512
 AltDiffusion-m9,https://huggingface.co/webui/AltDiffusion-m9/blob/main/Alt-Diffusion-M9-fp16.safetensors,1,512,512
 miniSD,https://huggingface.co/webui/miniSD/blob/main/miniSD.safetensors,1,512,512
 stable-v15,https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt,1,512,512
